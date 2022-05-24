@@ -2,7 +2,10 @@
 
 Research Psychologist interested in human performance and health.
 
+### About me
+### Code
 ### Publications: (https://github.com/pjschroeder/Pubications)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
