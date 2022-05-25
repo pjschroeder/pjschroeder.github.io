@@ -6,7 +6,7 @@ Navigate this site using the following links
 ### Code. 
 ### [Publications](https://github.com/pjschroeder/Pubications).
 ### Presentations.
-### Photograph (https://www.flickr.com/photos/organize/?start_tab=one_set72177720299244855).
+### Photograph(https://www.flickr.com/photos/organize/?start_tab=one_set72177720299244855).
 ### [Contact]($ git config user.email "schroed9@gmail.com").
 
 ## About me. 
