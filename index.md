@@ -6,7 +6,7 @@ Navigate this site using the following links
 ### Code
 ### [Publications](https://github.com/pjschroeder/Pubications).
 ### Presentations
-### Contact
+### [Contact]($ git config user.email "schroed9@gmail.com")
 
 ### Markdown
 
