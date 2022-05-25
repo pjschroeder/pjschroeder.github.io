@@ -12,7 +12,7 @@ Navigate this site using the following links
 ## About me. 
 CITI-Certified professional Research Psychologist specializing in human performance and health. Experienced with all aspects of the research process, including design, IRB, subject recruitement, data collection, data analysis, and presenting the outcomes to both lay and scientific audiences. A team player and leader capable of managing projects. 
 
-![image](https://github.com/pjschroeder/docs/blob/main/assets/Rails_re_wide1.png).
+![image](https://github.com/pjschroeder/docs/blob/main/assets/Rails2.png).
 
 
 
