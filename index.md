@@ -1,6 +1,6 @@
-## Paul J. Schroeder, Ph.D.
+## Welcome!
 
-Research Psychologist interested in human performance and health.
+Navigate this site using the following links
 
 ### About me
 ### Code
