@@ -12,7 +12,7 @@ Navigate this site using the following links
 ## About me. 
 CITI-Certified professional Research Psychologist specializing in human performance and health. Experienced with all aspects of the research process, including design, IRB, subject recruitement, data collection, data analysis, and presenting the outcomes to both lay and scientific audiences. A team player and leader capable of managing projects. 
 
-![image](https://github.com/pjschroeder/pjschroeder.github.io/blob/main/Rails2.png).
+![Image](https://github.com/pjschroeder/pjschroeder.github.io/blob/main/Rails2.png).
 
 
 
@@ -20,12 +20,6 @@ CITI-Certified professional Research Psychologist specializing in human performa
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pjschroeder/pjschroeder.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
