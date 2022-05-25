@@ -2,11 +2,11 @@
 
 Navigate this site using the following links
 
-### About me
-### Code
+### About me.
+### Code.
 ### [Publications](https://github.com/pjschroeder/Pubications).
-### Presentations
-### [Contact]($ git config user.email "schroed9@gmail.com")
+### Presentations.
+### [Contact]($ git config user.email "schroed9@gmail.com").
 
 ### Markdown
 
