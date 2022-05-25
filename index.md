@@ -13,7 +13,7 @@ Navigate this site using the following links
 CITI-Certified professional Research Psychologist specializing in human performance and health. Experienced with all aspects of the research process, including design, IRB, subject recruitement, data collection, data analysis, and presenting the outcomes to both lay and scientific audiences. A team player and leader capable of managing projects. 
 
 ![Image]([https://github.com/pjschroeder/media/blob/master/Rails_re_wide1.JPG])
-![Image](https://www.flickr.com/photos/195683287@N02/shares/3u275N).
+![Image](www.flickr.com/photos/195683287@N02/shares/u5L536).
 
 
 **Bold** and _Italic_ and `Code` text
