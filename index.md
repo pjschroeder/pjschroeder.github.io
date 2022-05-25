@@ -15,10 +15,6 @@ CITI-Certified professional Research Psychologist specializing in human performa
 ![Image](https://github.com/pjschroeder/pjschroeder.github.io/blob/main/Rails2.png).
 
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 ### Support or Contact
