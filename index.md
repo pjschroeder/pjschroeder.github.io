@@ -8,6 +8,7 @@ I am a CITI-Certified professional Research Psychologist specializing in human p
 ### Presentations.
 ### [Photography](https://www.flickr.com/photos/organize/?start_tab=one_set72177720299244855).
 ### [Contact]($ git config user.email "schroed9@gmail.com").
+### [Publications2](https://github.com/pjschroeder/pjschroeder.github.io/tree/Publications)
 
 ```
 
