@@ -5,10 +5,10 @@ I am a CITI-Certified professional Research Psychologist with more than two deca
 ![Image](Specialization2RE.png).
 
 ### Code. 
-### [Publications](https://github.com/pjschroeder/pjschroeder.github.io/tree/Publications). Or view my [Google Scholar page](https://scholar.google.com/citations?user=L9_aYfQAAAAJ&hl=en)
+### [Publications](https://github.com/pjschroeder/pjschroeder.github.io/tree/Publications). Or view my [Google Scholar page](https://scholar.google.com/citations?user=L9_aYfQAAAAJ&hl=en).
 ### Presentations.
 ### [Photography](https://www.flickr.com/photos/organize/?start_tab=one_set72177720299244855).
-### [Linkedin](https://www.linkedin.com/in/paul-j-schroeder-020b1316/)
+### [Linkedin](https://www.linkedin.com/in/paul-j-schroeder-020b1316/).
 ### [Contact]($ git config user.email "schroed9@gmail.com").
 
 ```
