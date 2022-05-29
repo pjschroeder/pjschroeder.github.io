@@ -9,7 +9,7 @@ I am a CITI-Certified professional Research Psychologist with more than two deca
 ### Presentations.
 ### [Photography](https://www.flickr.com/photos/organize/?start_tab=one_set72177720299244855).
 ### [Linkedin](https://www.linkedin.com/in/paul-j-schroeder-020b1316/).
-### [Contact]($ git config user.email "schroed9@gmail.com").
+### [Contact me](mailto:schroed9@gmail.com)
 
 ```
 
