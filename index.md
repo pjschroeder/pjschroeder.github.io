@@ -8,7 +8,7 @@ I specialize in the following areas
 
 ### Code. 
 ### [Publications](https://github.com/pjschroeder/pjschroeder.github.io/tree/Publications). Or view my [Google Scholar page](https://scholar.google.com/citations?user=L9_aYfQAAAAJ&hl=en).
-### Presentations.
+### [Presentations](https://github.com/pjschroeder/pjschroeder.github.io/tree/Presentations).
 ### [Photography](https://www.flickr.com/photos/organize/?start_tab=one_set72177720299244855).
 ### [Linkedin](https://www.linkedin.com/in/paul-j-schroeder-020b1316/).
 ### [Contact me](mailto:schroed9@gmail.com)
