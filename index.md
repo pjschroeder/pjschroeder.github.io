@@ -1,8 +1,8 @@
 ![Image](Rails4.png)
 
-I am a CITI-Certified professional Research Psychologist with more than two decades experience in all aspects of the research process, including design, IRB, subject recruitement, data collection, data analysis, and presenting outcomes to both lay and scientific audiences.  
+## I am a CITI-Certified professional Research Psychologist with more than two decades experience in all aspects of the research process, including design, IRB, subject recruitement, data collection, data analysis, and presenting outcomes to both lay and scientific audiences.  
 
-I specialize in the following areas
+## I specialize in the following areas
 
 ![Image](Specialization2RE.png).
 
