@@ -7,12 +7,11 @@
 ![Image](Specialization2RE.png).
 
 ### Code. 
-### [Publications](https://github.com/pjschroeder/pjschroeder.github.io/tree/Publications). Or view my [Google Scholar page](https://scholar.google.com/citations?user=L9_aYfQAAAAJ&hl=en).
+### [Publications](https://pjschroeder.github.io/Publications/) Or view my [Google Scholar page](https://scholar.google.com/citations?user=L9_aYfQAAAAJ&hl=en).
 ### [Presentations](https://pjschroeder.github.io/Presentations/).
 ### [Photography](https://photos.google.com/share/AF1QipMlbI0EBOjB_aAF47elFRw6auyFfGQED7eiJW50X7RrzaCXsA_0qe4GkIQfop1mFg?key=eVNndHNfLWRMT3VRamx6YjRPRWxWZTNjRGtXWWRn).
 ### [Linkedin](https://www.linkedin.com/in/paul-j-schroeder-020b1316/).
 ### [Contact me](mailto:schroed9@gmail.com)
-### [Test](https://github.com/pjschroeder/pjschroeder.github.io/blob/Presentations/Presentations.md)
 
 All images (c)2022 Foveated Photos
 
