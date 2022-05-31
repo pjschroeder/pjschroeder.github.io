@@ -12,6 +12,7 @@
 ### [Photography](https://photos.google.com/share/AF1QipMlbI0EBOjB_aAF47elFRw6auyFfGQED7eiJW50X7RrzaCXsA_0qe4GkIQfop1mFg?key=eVNndHNfLWRMT3VRamx6YjRPRWxWZTNjRGtXWWRn).
 ### [Linkedin](https://www.linkedin.com/in/paul-j-schroeder-020b1316/).
 ### [Contact me](mailto:schroed9@gmail.com)
+### [Test](https://github.com/pjschroeder/pjschroeder.github.io/blob/main/TEST.md)
 
 All images (c)2022 Foveated Photos
 
