@@ -5,7 +5,7 @@
 ## I specialize in the following areas
 
 ![Image](Specialization2RE.png).
-## [Health] ############### [Performance] ############### [Human Factors]
+## [Health] ############# [Performance] ############# [Human Factors]
 ### Code. 
 ### [Publications](https://pjschroeder.github.io/Publications/) Or view my [Google Scholar page](https://scholar.google.com/citations?user=L9_aYfQAAAAJ&hl=en).
 ### [Presentations](https://pjschroeder.github.io/Presentations/).
