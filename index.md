@@ -17,7 +17,6 @@ I am a professional Research Psychologist with more than two decades experience 
 All images (c)2022 Foveated Photos
 
 ```
-
-### Support or Contact
+###Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
