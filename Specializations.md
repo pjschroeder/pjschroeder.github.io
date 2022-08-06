@@ -6,9 +6,11 @@ _Organizational management_
 * Leadership
 * Patient safety
 - Process improvement (including change management)
+
 _Operations management_
 * Access to care (including telehealth)
 * Economics 
+
 _Patient perspective_
 * Perceptions of care
 * Treatment outcomes
