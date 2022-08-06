@@ -1,7 +1,7 @@
 ### Research Specializations
 I specialize in three primary areas of research
 
-### Health ## My health research interests focus on the quality of care. This includes the management of healthcare organizations, the management of                                  healthcare operations, and the patients’ perspectives of care. 
+<b>Health<b> ## My health research interests focus on the quality of care. This includes the management of healthcare organizations, the management of                                  healthcare operations, and the patients’ perspectives of care. 
 
 •	Organizational management
 - Leadership
