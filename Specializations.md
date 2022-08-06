@@ -3,16 +3,16 @@ I specialize in three primary areas of research
 
 <b>Health</b> My health research interests focus on the quality of care. This includes the management of healthcare organizations, the management of                                  healthcare operations, and the patients’ perspectives of care. 
 
-•	Organizational management
+•	<i> Organizational management </i>
 - Leadership
 - Patient safety
 - Process improvement (including change management)
 
-•	Operations management
+•	<i> Operations management </i>
 - Access to care (including telehealth)
 - Economics 
 
-•	Patient perspectives 
+•	<i> Patient perspective </i>
 - Perceptions of care
 - Treatment outcomes
 
