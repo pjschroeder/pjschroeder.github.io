@@ -11,7 +11,7 @@ I specialize in three primary areas of research
 •	Operations management
 - Access to care (including telehealth)
 - Economics 
-- 
+
 •	Patient perspectives 
 - Perceptions of care
 - Treatment outcomes
