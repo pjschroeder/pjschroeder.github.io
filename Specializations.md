@@ -1,7 +1,7 @@
 ### Research Specializations
 I specialize in three primary areas of research
 
-![Image](HealthRE.bmp) My health research interests focus on the quality of care. This includes the management of healthcare organizations, the management of healthcare operations, and the patients’ perspectives of care. 
+![Image](HealthRE.png) My health research interests focus on the quality of care. This includes the management of healthcare organizations, the management of healthcare operations, and the patients’ perspectives of care. 
 
 •	Organizational management
 - Leadership
@@ -16,11 +16,11 @@ I specialize in three primary areas of research
 - Perceptions of care
 - Treatment outcomes
 
-![Image](PerformanceRE.bmp) My interests in human performance focus on the relationship between cognition and action. More specifically, this includes managing and reasoning about behaviors.  
+![Image](PerformanceRE.png) My interests in human performance focus on the relationship between cognition and action. More specifically, this includes managing and reasoning about behaviors.  
 - Comprehension
 - Decision-making 
 - Self-regulation
 
-![Image](HumFactRE.bmp)This line of research examines how people interact with technology. This includes how people perceive and evaluate technology.
+![Image](HumFactRE.png)This line of research examines how people interact with technology. This includes how people perceive and evaluate technology.
 - User experience research
 - Human-machine trust 
