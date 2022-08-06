@@ -15,10 +15,10 @@ I specialize in three primary areas of research
 - Treatment outcomes
 
 ![Image](PerformanceRE.bmp) My interests in human performance focus on the relationship between cognition and action. More specifically, this includes managing and reasoning about behaviors.  
-•	Comprehension
-•	Decision-making 
-•	Self-regulation
+- Comprehension
+- Decision-making 
+- Self-regulation
 
 ![Image](HumFactRE.bmp)This line of research examines how people interact with technology. This includes how people perceive and evaluate technology.
-•	User experience research
-•	Human-machine trust 
+- User experience research
+- Human-machine trust 
