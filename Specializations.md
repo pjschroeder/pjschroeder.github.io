@@ -7,9 +7,11 @@ I specialize in three primary areas of research
 - Leadership
 - Patient safety
 - Process improvement (including change management)
-•	Operation management 
+
+•	Operations management
 - Access to care (including telehealth)
 - Economics 
+- 
 •	Patient perspectives 
 - Perceptions of care
 - Treatment outcomes
