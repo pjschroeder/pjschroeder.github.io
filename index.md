@@ -14,7 +14,7 @@ I am a professional Research Psychologist with more than two decades experience 
 ### [Linkedin](https://www.linkedin.com/in/paul-j-schroeder-020b1316/).
 ### [Contact me](mailto:schroed9@gmail.com)
 
-All images (c)2022 Foveated Photos
+All images (c)2022 Foveated Photos 
 
 ```
 ###Support or Contact
