@@ -46,7 +46,7 @@ Rice V, **Schroeder, PJ**. Self-rated self-compassion of active duty and veteran
 
 Gunawan K, Copeland DE, **Schroeder PJ**. The detection of event shifts in sequential art. Poster presented at the 52nd annual meeting of the Psychonomic Society 2011. Seattle, WA. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_Psychonomics11_DetectionOfEventShiftsInSequentialArt.pdf)
 
-**Schroeder PJ**, Copeland DE, Gunawan K. Comprehending spatial relations under survival conditions. Paper presented at the 20th annual meeting of the Society for Text and Discourse 2011. Chicago, IL. 
+**Schroeder PJ**, Copeland DE, Gunawan K. Comprehending spatial relations under survival conditions. Paper presented at the 20th annual meeting of the Society for Text and Discourse 2011. Chicago, IL. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Presentation_STD10_ComprehensionOfSpatialRelations%20(1).pdf)
 
 **Schroeder PJ**, Copeland DE. The use of contextual information on a working memory span task. Paper presented at the 22nd annual convention of the Association for Psychological Science 2010. Boston, MA. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_APS10_UseOfContextualInfo%20(1).pdf)
 
