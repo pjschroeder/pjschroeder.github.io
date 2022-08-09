@@ -38,7 +38,7 @@ Rice VJ. & **Schroeder PJ**. Self-reported sleep and cognitive performance among
 
 Rice VJ, **Schroeder PJ**. The relationship between mindful awareness and cognition among U.S. Military service members and veterans. Paper presented at the international meeting of the Human Factors & Ergonomics Society 2017. Austin, TX. 
 
-Rice V, **Schroeder, PJ**. Self-rated self-compassion of active duty and veteran U.S. Military service members. Poster presented at the Southwest Regional Human Factors & Ergonomics Society Symposium 2017. San Antonio, TX. 
+Rice V, **Schroeder, PJ**. Self-rated self-compassion of active duty and veteran U.S. Military service members. Poster presented at the Southwest Regional Human Factors & Ergonomics Society Symposium 2017. San Antonio, TX. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/POSTER_SWHFE17_SelfRatedSelfCaompassion%20(1).pdf)
 
 **Schroeder PJ**. Event perception and cognition: Implications for RHX research. Invited research presentation at Air Force Research Laboratory 2012. Wright-Patterson AFB, OH. 
 
@@ -48,7 +48,7 @@ Gunawan K, Copeland DE, **Schroeder PJ**. The detection of event shifts in seque
 
 **Schroeder PJ**, Copeland DE, Gunawan K. Comprehending spatial relations under survival conditions. Paper presented at the 20th annual meeting of the Society for Text and Discourse 2011. Chicago, IL. 
 
-**Schroeder PJ**, Copeland DE. The use of contextual information on a working memory span task. Paper presented at the 22nd annual convention of the Association for Psychological Science 2010. Boston, MA. 
+**Schroeder PJ**, Copeland DE. The use of contextual information on a working memory span task. Paper presented at the 22nd annual convention of the Association for Psychological Science 2010. Boston, MA. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_APS10_UseOfContextualInfo%20(1).pdf)
 
 Latronica B, McMurray J, **Schroeder PJ**. Undergraduate majors predict attitudes towards science. Poster presented at the 88th annual convention of the Western Psychological Association 2008. Irvine, CA. 
 
@@ -56,7 +56,7 @@ Latronica B, McMurray J, **Schroeder PJ**. Undergraduate majors predict attitude
 
 **Schroeder PJ**, Copeland DE. Simple addition and subtraction calculations while reading a narrative. Poster presented at the 48th annual meeting of the Psychonomic Society 2007. Long Beach, CA. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_Psychonomics07_SimpleAdditionAndSubtraction.pdf)
 
-**Schroeder PJ**, Barnes L, Bordeaux J et al. (2007, August). Self-reported encoding strategies following working memory span tasks. Poster presented at the 115th annual convention of the American Psychological Association 2007. San Francisco, CA. 
+**Schroeder PJ**, Barnes L, Bordeaux J et al. (2007, August). Self-reported encoding strategies following working memory span tasks. Poster presented at the 115th annual convention of the American Psychological Association 2007. San Francisco, CA. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_APA07_SelfReportedEncodingStrategies%20(1).pdf)
 
 Kemtes, KA, **Schroeder PJ**, Barnes L et al. Word-by-word grammaticality decisions vs. whole-sentence grammaticality decisions in sentence processing. Poster presented at the 87th annual convention of the Western Psychological Association 2007. Vancouver, B.C. 
 
