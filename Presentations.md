@@ -2,7 +2,7 @@
 
 **Conference presentations** 
 
-When available, presentation files may be downloaded (click the link that says "pdf")<span style="color:red">some *red* text</span>.
+<span style="color:red">When available, presentation files may be downloaded</span>. (click the link that says "pdf")
 
 _last updated August 2022_
 
