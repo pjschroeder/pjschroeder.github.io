@@ -22,7 +22,8 @@ Rice VJ, **Schroeder PJ**. Self-reported perceived stress and stress coping amon
 
 Rice VJ, **Schroeder PJ**. Self-reported resilience, somatization, health, and health biomarkers among sample of U.S. Military active duty and veterans. Poster presented at Military Health System Research Symposium 2018. Kissimmee FL.
 
-Rice VJ, **Schroeder PJ**, Cassenti DN, Boykin GL. The effects of traumatic brain injury (TBI) on cognitive performance in a sample of active-duty U.S. Military service members. Poster presented at Military Health System Research Symposium 2018. Kissimmee FL. [**pdf**] (https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_MHSRS18_EffectsOfTBIOnCogPerformance.pdf)
+Rice VJ, **Schroeder PJ**, Cassenti DN, Boykin GL. The effects of traumatic brain injury (TBI) on cognitive performance in a sample of active-duty U.S. Military service members. Poster presented at Military Health System Research Symposium 2018. Kissimmee FL.[**pdf**] (https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_MHSRS18_EffectsOfTBIOnCogPerformance.pdf)
+
 
 Rice V, **Schroeder PJ**. Is mindfulness related to how long one spends with an organization? A cross-sectional comparison of dispositional mindfulness and military time-in-service. Poster presented at the International Conference on Mindfulness 2018. Amsterdam, Netherlands. [**pdf**] (https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_ICM18_IsMindfulnessRelatedToHowLongOneSpendsWithAnOrganization.pdf)
 
