@@ -60,6 +60,6 @@ Latronica B, McMurray J, **Schroeder PJ**. Undergraduate majors predict attitude
 
 Kemtes, KA, **Schroeder PJ**, Barnes L et al. Word-by-word grammaticality decisions vs. whole-sentence grammaticality decisions in sentence processing. Poster presented at the 87th annual convention of the Western Psychological Association 2007. Vancouver, B.C. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Presentation_STD10_ComprehensionOfSpatialRelations%20(1).pdf)
 
-Barnes L, **Schroeder PJ**, Bordeaux J et al. Relationship between the component measures of the operation span task. Poster presented at the 87th annual convention of the Western Psychological Association 2007. Vancouver, B.C. 
+Barnes L, **Schroeder PJ**, Bordeaux J et al. Relationship between the component measures of the operation span task. Poster presented at the 87th annual convention of the Western Psychological Association 2007. Vancouver, B.C. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_WPA07_RelationshipBetweenOspan%20(1).pdf)
 
 Zata Z, Rouds D, Kemtes KA., **et al**. Association between health interest and health information recall in younger and older adults. Poster presented at the 84th annual convention of the Western Psychological Association 2004. Phoenix, AZ. 
