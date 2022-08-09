@@ -58,7 +58,7 @@ Latronica B, McMurray J, **Schroeder PJ**. Undergraduate majors predict attitude
 
 **Schroeder PJ**, Barnes L, Bordeaux J et al. (2007, August). Self-reported encoding strategies following working memory span tasks. Poster presented at the 115th annual convention of the American Psychological Association 2007. San Francisco, CA. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_APA07_SelfReportedEncodingStrategies%20(1).pdf)
 
-Kemtes, KA, **Schroeder PJ**, Barnes L et al. Word-by-word grammaticality decisions vs. whole-sentence grammaticality decisions in sentence processing. Poster presented at the 87th annual convention of the Western Psychological Association 2007. Vancouver, B.C. 
+Kemtes, KA, **Schroeder PJ**, Barnes L et al. Word-by-word grammaticality decisions vs. whole-sentence grammaticality decisions in sentence processing. Poster presented at the 87th annual convention of the Western Psychological Association 2007. Vancouver, B.C. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Presentation_STD10_ComprehensionOfSpatialRelations%20(1).pdf)
 
 Barnes L, **Schroeder PJ**, Bordeaux J et al. Relationship between the component measures of the operation span task. Poster presented at the 87th annual convention of the Western Psychological Association 2007. Vancouver, B.C. 
 
