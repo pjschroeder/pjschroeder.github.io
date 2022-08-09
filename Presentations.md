@@ -20,7 +20,7 @@ Rice V, **Schroeder PJ**. Resilience and mindfulness in active duty and veteran 
 
 Rice VJ, **Schroeder PJ**. Self-reported perceived stress and stress coping among a sample of active duty and veteran U.S. Military. Paper presented at International Conference on Applied Human Factors and Ergonomics 2019. Washington, D.C. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Presentation_AHFE19_SelfReportedStressRelatedCopingStrategiesandPerceivedStress.pdf)
 
-Rice VJ, **Schroeder PJ**. Self-reported resilience, somatization, health, and health biomarkers among sample of U.S. Military active duty and veterans. Poster presented at Military Health System Research Symposium 2018. Kissimmee FL.
+Rice VJ, **Schroeder PJ**. Self-reported resilience, somatization, health, and health biomarkers among sample of U.S. Military active duty and veterans. Poster presented at Military Health System Research Symposium 2018. Kissimmee FL. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_MHSRS18_SelfReportedResilienceSomatizationHealthandBiomarkers.pdf) 
 
 Rice VJ, **Schroeder PJ**, Cassenti DN, Boykin GL. The effects of traumatic brain injury (TBI) on cognitive performance in a sample of active-duty U.S. Military service members. Poster presented at Military Health System Research Symposium 2018. Kissimmee FL.[**pdf**] (https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_MHSRS18_EffectsOfTBIOnCogPerformance.pdf)
 
