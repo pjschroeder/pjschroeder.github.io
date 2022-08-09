@@ -1,4 +1,4 @@
-[Home](https://pjschroeder.github.io/)![Image](assets/images/Home-icon_RE.png)
+![Image](assets/images/Home-icon_RE.png)(https://pjschroeder.github.io/)
 
 **Conference presentations** 
 
