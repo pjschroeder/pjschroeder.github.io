@@ -36,7 +36,7 @@ Rice V, **Schroeder PJ**, Boykin GL. Customizing avatars and the impact on oneâ€
 
 Rice VJ. & **Schroeder PJ**. Self-reported sleep and cognitive performance among U.S. Military service members and veterans. Poster presented at the Military Health System Research Symposium 2017. Kissimmee, FL. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Poster_MHSRS17_SelfReportedSleepandCogPerformance.pdf)
 
-Rice VJ, **Schroeder PJ**. The relationship between mindful awareness and cognition among U.S. Military service members and veterans. Paper presented at the international meeting of the Human Factors & Ergonomics Society 2017. Austin, TX. 
+Rice VJ, **Schroeder PJ**. The relationship between mindful awareness and cognition among U.S. Military service members and veterans. Paper presented at the international meeting of the Human Factors & Ergonomics Society 2017. Austin, TX. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/Presentation_HFES17_MindfullAwarenessAndCognitivePerform.pdf)
 
 Rice V, **Schroeder, PJ**. Self-rated self-compassion of active duty and veteran U.S. Military service members. Poster presented at the Southwest Regional Human Factors & Ergonomics Society Symposium 2017. San Antonio, TX. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/presentations/POSTER_SWHFE17_SelfRatedSelfCaompassion%20(1).pdf)
 
