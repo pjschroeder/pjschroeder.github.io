@@ -4,7 +4,7 @@ I am a professional Research Psychologist with more than two decades experience 
 
 ## I [specialize](https://pjschroeder.github.io/Specializations.md) in the following areas of research
 
-![Image](Specialization2RE.png).
+![Image](/assets/images/Specialization2RE.png).
 
 ## Menu
 ### Code. 
