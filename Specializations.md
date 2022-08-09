@@ -1,4 +1,4 @@
-[Home](https://pjschroeder.github.io/)
+[![Alt text for broken image link](assets/images/Home-icon_RE.png)](https://pjschroeder.github.io/)
 
 ### Research Specializations
 I specialize in three primary areas of research
