@@ -1,6 +1,6 @@
 [![Alt text for broken image link](assets/images/Home-icon_RE.png)](https://pjschroeder.github.io/)
 
-##Presentations 
+## Presentations
 
 When available, presentation files may be downloaded. (click the link that says <span style="color:blue">**pdf**</span>)
 
