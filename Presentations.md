@@ -1,3 +1,4 @@
+[Home](https://pjschroeder.github.io/)
 **Conference presentations** 
 
 When available, presentation files may be downloaded (click the link that says "pdf")
