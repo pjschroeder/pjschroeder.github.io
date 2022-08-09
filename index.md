@@ -4,7 +4,8 @@
 
 ## I [specialize](https://pjschroeder.github.io/Specializations) in the following areas of research
 
-![Image](/assets/images/Specialization2RE.png).
+[![Alt text for broken image link](assets/images/Specialization2RE.png)](https://pjschroeder.github.io/Specializations).
+
 
 ## Menu
 ### Code. 
