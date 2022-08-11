@@ -1,3 +1,5 @@
+[![Alt text for broken image link](assets/images/Home-icon_RE.png)](https://pjschroeder.github.io/)
+
 ![Image](/assets/images/ConsultingLogoRE.png)
 
 ## Is your organization seeking experienced business or scientific support?
