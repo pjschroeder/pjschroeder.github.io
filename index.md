@@ -12,13 +12,7 @@ Areas of specialization (_click the image for more information_)
 ### [Publications](https://pjschroeder.github.io/Publications) Or view my [Google Scholar page](https://scholar.google.com/citations?user=L9_aYfQAAAAJ&hl=en).
 ### [Presentations](https://pjschroeder.github.io/Presentations).
 ### [Solution Management & Consulting Services](https://pjschroeder.github.io/Consulting)
-### [Photography](https://photos.google.com/share/AF1QipMlbI0EBOjB_aAF47elFRw6auyFfGQED7eiJW50X7RrzaCXsA_0qe4GkIQfop1mFg?key=eVNndHNfLWRMT3VRamx6YjRPRWxWZTNjRGtXWWRn).
 ### [Linkedin](https://www.linkedin.com/in/paul-j-schroeder-020b1316/).
 ### [Contact me](mailto:schroed9@gmail.com)
 
-All images (c)2022 Foveated Photos 
-
-```
-###Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+All images (c)2022 [Foveated Photos](https://photos.google.com/share/AF1QipMlbI0EBOjB_aAF47elFRw6auyFfGQED7eiJW50X7RrzaCXsA_0qe4GkIQfop1mFg?key=eVNndHNfLWRMT3VRamx6YjRPRWxWZTNjRGtXWWRn)
