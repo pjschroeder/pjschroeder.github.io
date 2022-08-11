@@ -1,4 +1,4 @@
-[![Home](assets/images/Home-icon_RE.png)](https://pjschroeder.github.io/) 
+[![Home](assets/images/Home-icon_RE.png)](https://pjschroeder.github.io/)[Home]
 
 ![Image](/assets/images/ConsultingLogoRE.png)
 
