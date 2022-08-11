@@ -11,6 +11,7 @@ Areas of specialization (_click the image for more information_)
 ### Code. 
 ### [Publications](https://pjschroeder.github.io/Publications) Or view my [Google Scholar page](https://scholar.google.com/citations?user=L9_aYfQAAAAJ&hl=en).
 ### [Presentations](https://pjschroeder.github.io/Presentations).
+### [Solution Management & Consulting Services](https://pjschroeder.github.io/Consulting)
 ### [Photography](https://photos.google.com/share/AF1QipMlbI0EBOjB_aAF47elFRw6auyFfGQED7eiJW50X7RrzaCXsA_0qe4GkIQfop1mFg?key=eVNndHNfLWRMT3VRamx6YjRPRWxWZTNjRGtXWWRn).
 ### [Linkedin](https://www.linkedin.com/in/paul-j-schroeder-020b1316/).
 ### [Contact me](mailto:schroed9@gmail.com)
