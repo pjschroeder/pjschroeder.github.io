@@ -6,7 +6,7 @@
 
 ### No matter what size or stage of an effort, I offer insight and expertise to help clients navigate projects from start to completion.  
 
-Business support in
+**Business support in**
 
 ![Image](/assets/images/ConsultingRE.png)
 
