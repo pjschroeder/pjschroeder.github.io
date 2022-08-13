@@ -1,5 +1,4 @@
-[![Home](assets/images/Home-icon_RE.png)](https://pjschroeder.github.io/)
-Home
+[Home](https://pjschroeder.github.io/) | [Contact](mailto:schroed9@gmail.com)
 
 ![Image](/assets/images/ConsultingLogoRE.png)
 
