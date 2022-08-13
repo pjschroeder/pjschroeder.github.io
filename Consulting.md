@@ -11,6 +11,6 @@ Home
 ![Image](/assets/images/ConsultingRE.png)
 
 ### In addition, I offer scientific services, including
-* **Research design
-* **Data collection & analysis 
-* **Scientific and technical writing support
+* **Research design**
+* **Data collection & analysis** 
+* **Scientific and technical writing support**
