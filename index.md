@@ -1,4 +1,4 @@
-## Home | [Publications](https://pjschroeder.github.io/Publications) | [Presentations](https://pjschroeder.github.io/Presentations) | [Solution Managment & Consulting](https://pjschroeder.github.io/Consulting)  | [Contact](mailto:schroed9@gmail.com
+### Home | [Publications](https://pjschroeder.github.io/Publications) | [Presentations](https://pjschroeder.github.io/Presentations) | [Solution Managment & Consulting](https://pjschroeder.github.io/Consulting)  | [Contact](mailto:schroed9@gmail.com)
 
 ![Image](/assets/images/Rails4.png)
 
