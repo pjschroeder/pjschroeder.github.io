@@ -1,4 +1,4 @@
-[![Alt text for broken image link](assets/images/Home-icon_RE.png)](https://pjschroeder.github.io/)
+### [Home](https://pjschroeder.github.io/) | [Publications](https://pjschroeder.github.io/Publications) | [Presentations] | [Consulting](https://pjschroeder.github.io/Consulting)  | [Contact](mailto:schroed9@gmail.com)
 
 ## Presentations
 
