@@ -1,3 +1,4 @@
+### Welcome to the official website of Foveated Photos
 ---
 layout: default
 images:
