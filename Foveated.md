@@ -2,16 +2,16 @@
 ---
 layout: default
 images:
-  - image_path: /images/cakes/apple-pie.jpg
-    title: Apple Pie
-  - image_path: /images/cakes/birthday-cake.jpg
-    title: Birthday Cake
-  - image_path: /images/cakes/black-forest.jpg
-    title: Black Forest
-  - image_path: /images/cakes/brownie.jpg
-    title: Brownie
-  - image_path: /images/cakes/cheese-cake.jpg
-    title: Cheese Cake
+  - image_path: Foveated/images/AUS7_thumb.jpg
+    title: New Zealand
+  - image_path: Foveated/images/AUS8_thumb.jpg
+    title: Auckland
+  - image_path: Foveated/images/BE_thumb.jpg
+    title: Bruges
+  - image_path: Foveated/images/BER0_thumb.jpg
+    title: Bermuda
+  - image_path: Foveated/images/BON0_thumb.jpg
+    title: Bonaire
   - image_path: /images/cakes/chocolate-cake.jpg
     title: Chocolate Cake
   - image_path: /images/cakes/fruit-cake.jpg
