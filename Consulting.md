@@ -12,5 +12,3 @@
 ### In addition, I offer scientific services, including
 
 ![Image](/assets/images/ScientificSupport.png)
-
-
