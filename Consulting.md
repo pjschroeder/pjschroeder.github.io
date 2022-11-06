@@ -10,6 +10,5 @@
 ![Image](/assets/images/Strategies.png)
 
 ### In addition, I offer scientific services, including
-* **Research design**
-* **Data collection & analysis** 
-* **Scientific and technical writing support**
+
+![Image](/assets/images/ScientificSupport.png)
