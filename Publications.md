@@ -4,7 +4,21 @@
 
 When available, publication files may be downloaded. (click the link that says <span style="color:blue">**pdf**</span>). Alternatively, use the <span style="color:blue">permanent link</span> for online access. 
 
-_last updated August 2022_
+ORCiD: <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-3612-342X"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-3612-342X
+    </a>
+
+_last updated July 2023_
 
 Rice VJ, **Schroeder PJ.** In-person and virtual world mindfulness training: trust, satisfaction, and learning. Cyberpsychol Behav Soc Netw 2021, 24: 526-535. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/publications/Rice_2021_In%20Person%20and%20Virtual%20World%20Mindfulness%20Training%20Trust%20Satisfaction%20and%20Learning.pdf). [**permanent link**](https://pubmed.ncbi.nlm.nih.gov/33656351/)
 
