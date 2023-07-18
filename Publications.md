@@ -18,8 +18,8 @@ ORCiD: <a
       https://orcid.org/0000-0002-3612-342X
     </a>
   
-  [**Google Scholar**](https://g.co/kgs/KRArXJ){:target="_blank"}| [**ResearchGate**](https://www.researchgate.net/profile/Paul-Schroeder-2){target="_blank"} 
-
+  [**Google Scholar**](https://g.co/kgs/KRArXJ)|[**ResearchGate**](https://www.researchgate.net/profile/Paul-Schroeder-2)
+  
 _last updated July 2023_
 
 Rice VJ, **Schroeder PJ.** In-person and virtual world mindfulness training: trust, satisfaction, and learning. Cyberpsychol Behav Soc Netw 2021, 24: 526-535. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/publications/Rice_2021_In%20Person%20and%20Virtual%20World%20Mindfulness%20Training%20Trust%20Satisfaction%20and%20Learning.pdf). [**permanent link**](https://pubmed.ncbi.nlm.nih.gov/33656351/)
