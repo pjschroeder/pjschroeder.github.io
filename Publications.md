@@ -17,7 +17,8 @@ ORCiD: <a
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0002-3612-342X
     </a>
-    Scholar: (https://g.co/kgs/KRArXJ)
+  
+  [**Scholar**](https://g.co/kgs/KRArXJ)
 
 _last updated July 2023_
 
