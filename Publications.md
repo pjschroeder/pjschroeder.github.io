@@ -18,7 +18,7 @@ ORCiD: <a
       https://orcid.org/0000-0002-3612-342X
     </a>
   
-  [**Scholar**](https://g.co/kgs/KRArXJ)
+  [**Google Scholar**](https://g.co/kgs/KRArXJ) | [**ResearchGate**](https://www.researchgate.net/profile/Paul-Schroeder-2)
 
 _last updated July 2023_
 
