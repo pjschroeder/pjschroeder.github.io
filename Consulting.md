@@ -2,6 +2,6 @@
 
 ![Image](/assets/images/SolutionManagement.png)
 
-## this page is under construction
+## This page is under construction
 
 
