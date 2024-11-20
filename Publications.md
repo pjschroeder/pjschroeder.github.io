@@ -22,7 +22,7 @@ ORCiD: <a
   
 _last updated October 2024_
 
-Rice, VJB, **Schroeder PJ**, Allison SC. Effects of mindfulness meditation training offered in-person and via a virtual world on self-compassion: A study with U.S. military active duty and veterans. Work 2024, 78: 1225-1245 [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/blob/main/assets/publications/Rice_2024_Effects%20of%20Mindfulness%20Training.pdf). [**permanent link**](https://pubmed.ncbi.nlm.nih.gov/39121152/)
+Rice, VJB, **Schroeder PJ**, Allison SC. Effects of mindfulness meditation training offered in-person and via a virtual world on self-compassion: A study with U.S. military active duty and veterans. Work 2024, 78: 1225-1245 [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/publications/Rice_2024_Effects%20of%20Mindfulness%20Training.pdf). [**permanent link**](https://pubmed.ncbi.nlm.nih.gov/39121152/)
 
 
 Rice VJ, **Schroeder PJ.** In-person and virtual world mindfulness training: trust, satisfaction, and learning. Cyberpsychol Behav Soc Netw 2021, 24: 526-535. [**pdf**](https://github.com/pjschroeder/pjschroeder.github.io/raw/main/assets/publications/Rice_2021_In%20Person%20and%20Virtual%20World%20Mindfulness%20Training%20Trust%20Satisfaction%20and%20Learning.pdf). [**permanent link**](https://pubmed.ncbi.nlm.nih.gov/33656351/)
